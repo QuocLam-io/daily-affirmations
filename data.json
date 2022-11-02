@@ -81,6 +81,26 @@
     "type": "Bonus"
   },
   {
-    
+    "title": "Letting Go",
+    "description": "I don't dwell on bad things that happened. I let things go because I have enough heavy things to carry around... and also, grudges aren't a great look."
+  },
+  {
+    "title": "Spontaneity",
+    "description": "Do you like spontaneous adventures of the highest caliber? The only acceptable answer to this question is \"YES\"-- so buckle up, Charlie*! You're about to take a wild ride through the unexplored, unconventional, and underrated. You're about to learn that \"Yes\" us a magic word with the power to unlock new dimensions in space, time, and after-hours hangouts. \"Yes\" will lead you to experiences you didn't think possible, and teach you that lifelong friendships are sometimes lurking just behind a karaoke singer's mullet.",
+    "type": "Bonus"
+  },
+  {
+    "title": "Patience",
+    "description": "Congratulations! You've been granted more patience! You may start using it right away... or much, much later. Waiting a long time is the sort of option now afforded to you by greater patience. Can you believe it? Look at this... you're still reading and you haven't started getting annoyed yet. Imagine how this patience will transform your life! IMAGINE HOW EASY IT WILL BE TO GO TO THE POST OFFICE.",
+    "type": "Bonus"
+  },
+  {
+    "title": "Manifestation",
+    "description": "If you could have anything you wanted, what would it be? Get specific, ang get greedy. You ar eholding a magic wand, and you can conjure up anything. Could it be that when you declare your wishes out loud you're actually casting a spell for your dreams to come true? Or is it just that, in a very practical sense, the more people you speak with about your desires, the more folks there are who know what you want and might have the means to help you make them happen? Either way, stop waiting and start manifesting. (But don't use that word if you don't want to.)",
+    "type": "Bonus"
+  },
+  {
+    "title": "Get Centered",
+    "description": "When it gets to be too much, whatever it is, I close my eyes and return to my center. In my center, I have the wisdom adn tranquility of a _____(favorite animal)_____, holding a _____(magical item)_____, floating through space on a _____(piece of furniture)_____."
   }
 ]
