@@ -121,7 +121,40 @@
     "description": "I am worthy of the ultimate happiness. I deserve and accept it, and dammit I'm not going to feel guilty about it when I get it. Guilt is not invited to my happiness party-- I won't even tell him where it is. If he asks about it, I'll be like, \"No, I think you're thinking of something else.... \" And then I'll run away quickly."
   },
   {
-    "title":"Sanctuary",
-    "description":"Good for you! It seems you've earned some time away from the chaos of life. It could be as small as a bubble bath, or as big as a trip... Or maybe it's a small trip to a big bubble bath. Or a normal-sized trip to a tiny bubble bath. Or maybe you tripped and fell in someone's bath. Whatever it is, it's waiting for you with open arms. Just pick your favorite sanctuary and unplug for a bit (especially if a bath is involved)."
+    "title": "Sanctuary",
+    "description": "Good for you! It seems you've earned some time away from the chaos of life. It could be as small as a bubble bath, or as big as a trip... Or maybe it's a small trip to a big bubble bath. Or a normal-sized trip to a tiny bubble bath. Or maybe you tripped and fell in someone's bath. Whatever it is, it's waiting for you with open arms. Just pick your favorite sanctuary and unplug for a bit (especially if a bath is involved).",
+    "type": "Bonus"
+  },
+  {
+    "title": "Divine Timing",
+    "description": "Everything is timing, and timing is everything. Gladly, I release my concern over timing and let things happen when-- and as-- they will. I trust that the divine schedule-makers know what they're doing. It can take a long time to reach divine middle management."
+  },
+  {
+    "title": "Strength",
+    "description": "You are hereby declared a strong, resilient warrior of heroic proportions. Enjoy your battles, whatever they are, because you're guarenteed to come through them stronger, brighter, and more compassionate. (And, based on what I know of mythology, probably with great hair and a six-pack.)",
+    "type": "Bonus"
+  },
+  {
+    "title": "Beauty",
+    "description": "I'm beautiful even when I don't think it. I'm beautiful even when I don't see it. I'm beautiful, no matter how many people don't say it. I'm beautiful, and I don't even care if you know it. I'm beautiful, which is why I don't have to try so hard all the time to show it."
+  },
+  {
+    "title": "Courage",
+    "description": "No one is fearless. No one. But even though I'm not fearless, I am courageous. When fear shows up, I don't run away from it. I use my courage to conquer it. My courage allows me to walk right up to that fear and kick it in the nuts-- then quickly hide behind someone bigger until it goes away."
+  },
+  {
+    "title": "Title of my Life",
+    "description": "As I tell myself the story of what's happening in my life, I choose to make it the kind of story where even the tough parts have a sort of inner beauty. It's ultimately a happy story, where every character (no matter how wicked), is doing their best. And lemme tell you, it'll be worth it when I earn that Pulitzer Prize for best inner monologue."
+  },
+  {
+    "title": "Peacefulness",
+    "description": "I have a peaceful, tranquilm and untroubled heart. This is where I choose to spend my time. I can bring guests... but any person ,thought or even that brins drama or chaos is not invited. My heart is a special property, and I'm going to keep it that way so we can all keep enjoying it and I can get my security deposit back."
+  },
+  {
+    "title": "Wonder",
+    "description": "It's a wonderful thing to be in a state of wonder. And when I'm a good audience to my life, my life becomes better and better theatre. When something delightful happens, I can shout \"Encore!\" and be tickled when it happens again. When something maddening happens, I can laugh it off. Either way, I'm glad I got a ticket to show."
+  },
+  {
+    "title":""
   }
 ]
